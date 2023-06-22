@@ -126,31 +126,35 @@
 
 ## My Recently Played Music
 
-<a href="https://open.spotify.com/intl-ja/artist/3YI0IfapXX8M8W3zwzmcbM">
-	<img
-		alt="Spotify Recently Played"
-		src="https://spotify-recently-played-readme.vercel.app/api?user=31kj7xogsixxaidha3tjvjoarhsq&unique=true&width=840&count=10"
-	/>
-</a>
+<section>
+	<a href="https://open.spotify.com/intl-ja/artist/3YI0IfapXX8M8W3zwzmcbM">
+		<img
+			alt="Spotify Recently Played"
+			src="https://spotify-recently-played-readme.vercel.app/api?user=31kj7xogsixxaidha3tjvjoarhsq&unique=true&width=840&count=10"
+		/>
+	</a>
+</section>
 
 <br />
 
-## Misc
+## References for This README 👋
 
-### References
+This README is created with reference to the following repositories.\
+Thank you for sharing your awesome information❕
 
-#### Tools
+### Tools
 
-- https://github.com/ryo-ma/github-profile-trophy
 - https://github.com/DenverCoder1/readme-typing-svg
 - https://github.com/vn7n24fzkq/github-profile-summary-cards
+- https://github.com/denvercoder1/github-readme-streak-stats
+- https://github.com/ryo-ma/github-profile-trophy
 - https://github.com/JeffreyCA/spotify-recently-played-readme
 
-#### Profile Pages
+### Profile Pages
 
 - https://github.com/zumrudu-anka
 
-#### Articles
+### Articles
 
 - https://paiza.hatenablog.com/entry/2022/07/06/160000
 - https://qiita.com/ryo-ma/items/c6298020098cb631f46e
