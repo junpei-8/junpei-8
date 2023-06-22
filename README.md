@@ -6,7 +6,7 @@
 			width="120px"
 		/>
 	</a>
-	<h1 align="center">
+	<h1>
 		<a href="https://en.wiktionary.org/wiki/less_is_more">
 			<img
 				alt="Less is More"
