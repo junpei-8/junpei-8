@@ -17,7 +17,7 @@
 		</a>
 	</h1>
 	<a href="https://trackgit.com">
-		<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lj6w45jrhdm0xrgtiflj" alt="Trackgit views" />
+		<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lj6w45jrhdm0xrgtiflj" alt="Trackgit Views" />
 	</a>
 </section>
 
@@ -112,7 +112,7 @@
 			<td colspan="2">
 				<a href="https://github.com/ryo-ma/github-profile-trophy">
 					<img
-						alt="Github Profile Trophy"
+						alt="Github Profile Trophies"
 						src="https://github-profile-trophy.vercel.app/?username=junpei-8&column=8&row=1&no-frame=true&theme=algolia"
 						width="100%"
 					/>
@@ -129,7 +129,7 @@
 <section align="center">
 	<a href="https://open.spotify.com/intl-ja/artist/3YI0IfapXX8M8W3zwzmcbM">
 		<img
-			alt="Spotify Recently Played"
+			alt="Spotify Recently Played Musics"
 			src="https://spotify-recently-played-readme.vercel.app/api?user=31kj7xogsixxaidha3tjvjoarhsq&unique=true&width=840&count=10"
 		/>
 	</a>
