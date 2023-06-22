@@ -126,7 +126,7 @@
 
 ## My Recently Played Music
 
-<section>
+<section align="center">
 	<a href="https://open.spotify.com/intl-ja/artist/3YI0IfapXX8M8W3zwzmcbM">
 		<img
 			alt="Spotify Recently Played"
