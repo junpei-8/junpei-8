@@ -1,5 +1,5 @@
 <section align="center">
-	<a href="https://houston.astro.build" target="_blank">
+	<a href="https://houston.astro.build">
 		<img
 			alt="Houston"
 			src="./images/houston.webp"
@@ -7,7 +7,7 @@
 		/>
 	</a>
 	<h1 align="center">
-		<a href="https://en.wiktionary.org/wiki/less_is_more" target="_blank">
+		<a href="https://en.wiktionary.org/wiki/less_is_more">
 			<img
 				alt="Less is More"
 				src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=32&duration=3200&pause=400&center=true&vCenter=true&repeat=false&width=320&height=48&lines=Less+is+More"
@@ -16,7 +16,7 @@
 			/>
 		</a>
 	</h1>
-	<a href="https://trackgit.com" target="_blank">
+	<a href="https://trackgit.com">
 		<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lj6w45jrhdm0xrgtiflj" alt="Trackgit views" />
 	</a>
 </section>
@@ -29,7 +29,7 @@
 	<tbody align="center">
 		<tr>
 			<td colspan="2">
-				<a href="https://github.com/junpei-8" target="_blank">
+				<a href="https://github.com/junpei-8">
 					<img
 						alt="Github Profile Details"
 						src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junpei-8&theme=react"
@@ -40,7 +40,7 @@
 		</tr>
 		<tr>
 			<td width="420px">
-				<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card" target="_blank">
+				<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
 					<img
 						alt="Github Stats 1"
 						src="https://github-readme-stats.vercel.app/api?username=junpei-8&show_icons=ture&show=reviews&hide=issues,contribs&hide_border=true&include_all_commits=true&card_width=420px&theme=react&"
@@ -54,7 +54,7 @@
 				</a>
 			</td>
 			<td width="420px">
-				<a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
+				<a href="https://github.com/denvercoder1/github-readme-streak-stats">
 					<img
 						alt="Github Streak Stats"
 						src="https://github-readme-streak-stats.herokuapp.com/?user=junpei-8&hide_border=true&theme=react"
@@ -70,7 +70,7 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card" target="_blank">
+				<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
 					<img
 						alt="Github Most Used Languages"
 						src="https://github-readme-stats.vercel.app/api/top-langs/?username=junpei-8&layout=donut-vertical&show_icons=true&hide_border=true&langs_count=10&theme=react"
@@ -79,7 +79,7 @@
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card" target="_blank">
+				<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
 					<img
 						alt="Github Most Used Languages without Basic Web Languages"
 						src="https://github-readme-stats.vercel.app/api/top-langs/?username=junpei-8&layout=donut-vertical&custom_title=(Without+Basic+Web+Langs)&show_icons=true&hide=typescript,javascript,html,css,sass,scss&hide_border=true&langs_count=10&theme=react"
@@ -90,7 +90,7 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards#top-languages-used-in-repository-card" target="_blank">
+				<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards#top-languages-used-in-repository-card">
 					<img
 						alt="Github Top Languages by Repo"
 						src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junpei-8&theme=react"
@@ -99,7 +99,7 @@
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards#top-languages-in-commits-card" target="_blank">
+				<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards#top-languages-in-commits-card">
 					<img
 						alt="Github Top Languages by Commit"
 						src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junpei-8&theme=react"
@@ -110,7 +110,7 @@
 		</tr>
 		<tr>
 			<td colspan="2">
-				<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+				<a href="https://github.com/ryo-ma/github-profile-trophy">
 					<img
 						alt="Github Profile Trophy"
 						src="https://github-profile-trophy.vercel.app/?username=junpei-8&column=8&row=1&no-frame=true&theme=algolia"
@@ -127,7 +127,7 @@
 ## My Recently Played Music
 
 <section align="center">
-	<a href="https://open.spotify.com/intl-ja/artist/3YI0IfapXX8M8W3zwzmcbM" target="_blank">
+	<a href="https://open.spotify.com/intl-ja/artist/3YI0IfapXX8M8W3zwzmcbM">
 		<img
 			alt="Spotify Recently Played"
 			src="https://spotify-recently-played-readme.vercel.app/api?user=31kj7xogsixxaidha3tjvjoarhsq&unique=true&width=840&count=10"
