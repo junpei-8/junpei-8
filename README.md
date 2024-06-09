@@ -20,22 +20,3 @@
 		<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lj6w45jrhdm0xrgtiflj" alt="Trackgit Views" />
 	</a>
 </section>
-
-## References for This README 👋
-
-This README is created with reference to the following repositories.\
-Thank you for sharing your awesome information❕
-
-### Tools
-
-- https://github.com/DenverCoder1/readme-typing-svg
-- https://github.com/denvercoder1/github-readme-streak-stats
-
-### Profile Pages
-
-- https://github.com/zumrudu-anka
-
-### Articles
-
-- https://paiza.hatenablog.com/entry/2022/07/06/160000
-- https://qiita.com/ryo-ma/items/c6298020098cb631f46e
