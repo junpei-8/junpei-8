@@ -1,11 +1,11 @@
 <section align="center">
-	<a href="https://houston.astro.build">
+	<!-- 	<a href="https://houston.astro.build">
 		<img
 			alt="Houston"
 			src="./images/houston.webp"
 			width="120px"
 		/>
-	</a>
+	</a> -->
 	<h1>
 		<a href="https://en.wiktionary.org/wiki/less_is_more">
 			<img
